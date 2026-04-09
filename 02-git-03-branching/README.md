@@ -344,7 +344,7 @@ Fast-forward
 
 #### Промежуточный итог  
 Проверил страницу `network` в GitHub, находящейся по адресу 
-`https://github.com/AyratTukay/devops-netology/network`. Изменений не было. Графика обновилась только на следующий день.
+https://github.com/AyratTukay/devops-netology/network. Изменений не было. Графика обновилась только на следующий день.
 
 #### Merge
 Сливаю ветку `git-merge` в main и отправляем изменения в репозиторий.  
